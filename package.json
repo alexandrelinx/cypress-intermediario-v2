@@ -27,5 +27,8 @@
     "@faker-js/faker": "^7.6.0",
     "cypress": "^12.6.0",
     "cypress-plugin-api": "^2.10.3"
+  },
+  "dependencies": {
+    "tig": "^0.1.43"
   }
 }
