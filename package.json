@@ -5,8 +5,8 @@
   "main": "cypress.config.js",
   "scripts": {
     "test": "cypress run",
-    "exec":"cypress open",
-    "github":" cypress run --record --key 7b601b87-373c-4110-9067-7743cebc1aae"
+    "exec": "cypress open",
+    "github": " cypress run --record --key 7b601b87-373c-4110-9067-7743cebc1aae"
   },
   "repository": {
     "type": "git",
@@ -25,7 +25,7 @@
   "homepage": "https://github.com/wlsf82/cypress-intermediario-v2#readme",
   "devDependencies": {
     "@faker-js/faker": "^7.6.0",
-    "cypress": "^12.0.2",
-    "cypress-plugin-api": "^2.6.1"
+    "cypress": "^12.6.0",
+    "cypress-plugin-api": "^2.10.3"
   }
 }
